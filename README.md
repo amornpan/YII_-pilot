@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -58,3 +59,30 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+=======
+# YII_-pilot
+training YII
+
+## Set Extension
+- PHP Intelephense
+
+- Yii2 Snippets
+
+- Yii2 Peek
+
+- Material Icon Theme
+
+## Composer Cheat Sheet for developers
+https://composer.json.jolicode.com/
+
+## Object-Oriented PHP for Beginners
+https://code.tutsplus.com/object-oriented-php-for-beginners--net-12762t
+
+## yii install
+cd /Applications/XAMPP/xamppfiles/htdocs
+composer create-project --prefer-dist yiisoft/yii2-app-advanced yii_app
+
+
+
+
+>>>>>>> 19e2468cf3a7728e50cd2fc712b5fdd832bf2285
