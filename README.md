@@ -80,4 +80,13 @@ https://code.tutsplus.com/object-oriented-php-for-beginners--net-12762t
 ## yii install
 cd /Applications/XAMPP/xamppfiles/htdocs
 
+----------------------------------
+
+curl -sS https://getcomposer.org/installer | php
+
+sudo mv composer.phar /usr/local/bin/composer
+
 composer create-project --prefer-dist yiisoft/yii2-app-advanced yii_app
+
+
+
